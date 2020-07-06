@@ -21,14 +21,14 @@ My interests are splitted between mathematics/data science and network and servi
   - B. Thesis: *Application of statistical techniques to network registers for the network traffic analysis*
   - Supervisor: Prof. Jorge E. López de Vergara (Dept. of Electronics and Communication Technologies)
   
- ## Work
+## Work experience
  
  - Oct. 2017 - now: Analyst and researcher at Naudit HPCN S.L.
  - Feb. 2020 - Aug. 2020: Adjunct Professor at Universidad Autónoma de Madrid, Dept. of Electronics and Communication Technologies.
  - Jun. 2017 - Sep. 2017: Internship at Naudit HPCN S.L.
  - Jun. 2016 - Apr. 2017: Researcher internship at HPCN Research Group (Universidad Autónoma de Madrid, Dept. of Electronics and Communication Technologies.)
  
- ## Languages
+## Languages
  
  As you may see, I am pretty enthusiastic about languages :)
  
@@ -37,14 +37,14 @@ My interests are splitted between mathematics/data science and network and servi
  - German: B1 CEFR
  - Japanese B1.1/B1.2 CEFR, N4 JLPT
  
- ## Participation in research projects:
+## Participation in research projects:
  
  - Tráfica: Análisis de tráfico para inteligencia operativa (Programa Estatal de Investigación, Desarrollo e Innovación Orientada a los Retos de la Sociedad, TEC2015-69417-C2-1-R.) as holder of the collaboration scholarship of the Spanish Ministry of Education, Sports and Culture.
  - METRO-HAUL: METRO High bandwidth, 5G Application-aware optical network, with edge storage, compUte and low Latency (European Comission, Project Id. 761727) collaborator.
  
- ## Teaching
+## Teaching
  
- ### 2019/2020
+### 2019/2020
  
  - Network Architecture I (B.Eng. in Telecommunication Technology and Services, UAM). Laboratory professor.
  - Network Architecture II (B.Eng. in Telecommunication Technology and Services, UAM). Laboratory professor.
