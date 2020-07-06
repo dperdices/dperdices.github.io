@@ -23,7 +23,7 @@ My interests are splitted between mathematics/data science and network and servi
   
  ## Work experience
  
- - Oct. 2017 - now*: Analyst and researcher at Naudit HPCN S.L.
+ - Oct. 2017 - now: Analyst and researcher at Naudit HPCN S.L.
  - Feb. 2020 - Aug. 2020: Adjunct Professor at Universidad Autónoma de Madrid, Dept. of Electronics and Communication Technologies.
  - Jun. 2017 - Sep. 2017: Internship at Naudit HPCN S.L.
  - Jun. 2016 - Apr. 2017: Researcher internship at HPCN Research Group (Universidad Autónoma de Madrid, Dept. of Electronics and Communication Technologies.)
