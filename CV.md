@@ -4,23 +4,7 @@ My interests are splitted between mathematics/data science and network and servi
 
 ## Education
 
-- 2020-2023 PhD in Computer Science and Telecommunications
-  - Universidad Autónoma de Madrid
-  - PhD Thesis: *Smart Modeling Techniques for Network and Service Management*
-  - Advisor: Prof. Jorge E. López de Vergara (Dept. of Electronics and Communication Technologies)
-- 2018-2020 MSc in ICT Research
-  - Universidad Autónoma de Madrid
-  - M. Thesis: *Network monitoring and performance assessment: from statistical models to neural networks*
-  - Supervisors: Prof. Jorge E. López de Vergara and Prof. Fco. Javier Ramos de Santiago (Dept. of Electronics and Communication Technologies)
-- 2018-2019 MSc in Mathematics
-  - Universidad Autónoma de Madrid
-  - M. Thesis: *Partial Least Squares for Functional Data*
-  - Supervisor: Prof. Jose Ramón Berrendero (Dept. of Mathematics)
-- 2013-2018 BSc in Computer Science
-- 2013-2018 BSc in Mathematics
-  - B. Thesis: *Application of statistical techniques to network registers for the network traffic analysis*
-  - Supervisor: Prof. Jorge E. López de Vergara (Dept. of Electronics and Communication Technologies)
-  
+
  ## Work experience
  
  - Oct. 2017 - now: Analyst and researcher at Naudit HPCN S.L.
