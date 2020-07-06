@@ -4,11 +4,11 @@ My interests are splitted between mathematics/data science and network and servi
 
 ## Education
 
-- 2020-2023* PhD in Computer Science and Telecommunications
+- 2020-2023 PhD in Computer Science and Telecommunications
   - Universidad Autónoma de Madrid
   - PhD Thesis: *Smart Modeling Techniques for Network and Service Management*
   - Advisor: Prof. Jorge E. López de Vergara (Dept. of Electronics and Communication Technologies)
-- 2018-2020* MSc in ICT Research
+- 2018-2020 MSc in ICT Research
   - Universidad Autónoma de Madrid
   - M. Thesis: *Network monitoring and performance assessment: from statistical models to neural networks*
   - Supervisors: Prof. Jorge E. López de Vergara and Prof. Fco. Javier Ramos de Santiago (Dept. of Electronics and Communication Technologies)
