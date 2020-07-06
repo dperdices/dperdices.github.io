@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to my webpage
 
-You can use the [editor on GitHub](https://github.com/Darktris/dperdices.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Here you can find some of my personal information
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Who I am?
 
-### Markdown
+I am young researcher and analyst at [Naudit HPCN](http://www.naudit.es/). I am also adjunct professor and PhD student at [Universidad Autónoma de Madrid](https://www.uam.es/), where I carry out my research focused on modeling techniques (statistics, machine learning and deep learning) applied but not limited to network and service management.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## How do you contact me?
 
-```markdown
-Syntax highlighted code block
+Mainly, by email. 
 
-# Header 1
-## Header 2
-### Header 3
+- daniel.perdices *at* uam.es 
+- daniel.perdices *at* naudit.es
+ 
+Also, my twitter is [@dperdices](https://twitter.com/dperdices).
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Darktris/dperdices.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can also go to my office (or workplace) that is either C-331 office (building C) of EPS, UAM; or research lab C-113 (my place is the table just in front of the  whiteboard and the windows) of EPS, UAM.
