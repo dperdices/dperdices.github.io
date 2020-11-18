@@ -22,8 +22,8 @@ My interests are splitted between mathematics/data science and network and servi
   - Supervisor: Prof. Jorge E. López de Vergara (Dept. of Electronics and Communication Technologies)
   
 ## Work experience
- 
- - Oct. 2017 - now: Analyst and researcher at Naudit HPCN S.L.
+ - Nov. 2020 - now: researcher and lecturer at Universidad Autónoma de Madrid, Dept. of Electronics and Communication Technologies. Financed by the the Program for the Training of University Lecturers of the Spanish Ministry Science, Innovation and Universities (grant number FPU19/05678).
+ - Oct. 2017 - Oct. 2020: Analyst and researcher at Naudit HPCN S.L.
  - Feb. 2020 - Aug. 2020: Adjunct Professor at Universidad Autónoma de Madrid, Dept. of Electronics and Communication Technologies.
  - Jun. 2017 - Sep. 2017: Internship at Naudit HPCN S.L.
  - Jun. 2016 - Apr. 2017: Researcher internship at HPCN Research Group (Universidad Autónoma de Madrid, Dept. of Electronics and Communication Technologies.)
@@ -44,6 +44,9 @@ My interests are splitted between mathematics/data science and network and servi
  
 ## Teaching
  
+### 2020/2021
+ - Computer Architecture (B.Eng./B.Sc. in Computer Science, UAM). Laboratory professor.
+
 ### 2019/2020
  
  - Network Architecture I (B.Eng. in Telecommunication Technology and Services, UAM). Laboratory professor.
