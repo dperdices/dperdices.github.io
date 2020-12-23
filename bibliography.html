@@ -1,0 +1,73 @@
+<head>
+    <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+    <meta http-equiv="cache-control" content="no-cache">
+    <title>
+        Daniel Perdices's Publications
+    </title>
+
+    <script type="text/javascript"
+        src="https://cdn.jsdelivr.net/gh/pcooksey/bibtex-js@1.0.0/src/bibtex_js.min.js"></script>
+    <bibtex src="./biblos.bib"></bibtex>
+
+    <div class="bibtex_template">
+        <div class ="well">
+            <div class ="container">
+                <div class="if author" style="font-weight: bold;">
+                    <span class="author"></span>
+                    <span class="if year"> (<span class="year"></span>) </span>
+                    <span class="if doi" style="margin-left: 20px">
+                        <a class="bibtexVar" extra="DOI" style="color:green; font-size:10px" href="https://doi.org/+DOI+">doi: <span class="doi "></span> </a>
+                    </span>
+                    <span class="if url" style="margin-left: 20px">
+                        <a class="url " style="color:blue; font-size:10px">[Link]</a>
+                    </span>
+                </div>
+    
+                <!-- This div is what is used to determine what is displayed from the bib entry. It is written to produce (roughly) APA formatting, though it is not perfect... !-->
+                <div style="margin-left: 10px; margin-bottom:5px;">
+                    <span class="title "></span>.
+                    <span class="if editor ">
+                        In <span class="editor "></span> (Eds.),
+                    </span>
+                    <span class="if booktitle ">
+                        <span class="booktitle " style="font-style: italic;"></span>
+                        <span class="if pages ">
+                            (p. <span class="pages "></span>).
+                        </span>
+                        <span class="if address "><span class="address "></span>:</span>
+                        <span class="if publisher "><span class="publisher "></span>.</span>
+                    </span>
+                    <span class="if type " style="font-style: italic;">
+                        <br><span class="type"></span>,
+                    </span>
+                    <span class="if journal " style="font-style: italic;">
+                        <span class="journal"></span>,
+                    </span>
+                    <span class="if volume " style="font-style: italic;">
+                        <span class="volume"></span>
+                    </span>
+                    <span class="if number ">
+                        (<span class="number "></span>),
+                    </span>
+                    <span class="if journal ">
+                        <span class="if pages ">
+                            <span class="pages "></span>.
+                        </span>
+                    </span>
+                </div>
+    
+            </div>
+        </div>
+    </div> 
+</head>
+
+<body>
+    <h2>Journal articles</h2>
+    <div class="bibtex_display" bibtextypekey="ARTICLE"></div>
+    <h2>Conference articles</h2>
+    <div class="bibtex_display" bibtextypekey="INPROCEEDINGS"></div>
+    <h2>Technical reports</h2>
+    <div class="bibtex_display" bibtextypekey="TECHREPORT"></div>
+    <h2>Theses</h2>
+    <div class="bibtex_display" bibtextypekey="THESIS"></div>
+</body>
