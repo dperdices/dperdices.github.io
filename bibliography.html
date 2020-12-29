@@ -1,9 +1,6 @@
 ---
 layout: default
 ---
-    <title>
-        Daniel Perdices's Publications
-    </title>
     <script type="text/javascript"
         src="https://cdn.jsdelivr.net/gh/pcooksey/bibtex-js@1.0.0/src/bibtex_js.min.js"></script>
     <bibtex src="./biblos.bib"></bibtex>
@@ -15,10 +12,13 @@ layout: default
                     <span class="author"></span>
                     <span class="if year"> (<span class="year"></span>) </span>
                     <span class="if doi" style="margin-left: 20px">
-                        <a class="bibtexVar" extra="DOI" style="color:green; font-size:10px" href="https://doi.org/+DOI+">doi: <span class="doi "></span> </a>
+                        <a class="bibtexVar" extra="DOI" target="_blank" style="color:green; font-size:10px" href="https://doi.org/+DOI+">doi: <span class="doi "></span> </a>
                     </span>
                     <span class="if url" style="margin-left: 20px">
-                        <a class="url " style="color:blue; font-size:10px">[Link]</a>
+                        <a class="url " target="_blank" style="color:blue; font-size:10px">[Link]</a>
+                    </span>
+                    <span class="if pdf" style="margin-left: 20px">
+                        <a class="pdf " target="_blank" style="color:red; font-size:10px">[PDF]</a>
                     </span>
                 </div>
     
@@ -58,12 +58,18 @@ layout: default
             </div>
         </div>
     </div> 
-
+    <h2>Search:</h2>
+    <input type="text" class="bibtex_search" id="searchbar" placeholder="Fuzzy search by any field">
+    <div class="bibtex_structure">
+        <div class="sort year" extra="DESC number">
+          <div class="templates"></div>
+        </div>
+      </div>
     <h2>Journal articles</h2>
-    <div class="bibtex_display" bibtextypekey="ARTICLE"></div>
+    <div class="bibtex_display" bibtextypekey="ARTICLE" extra="year: DESC"></div>
     <h2>Conference articles</h2>
-    <div class="bibtex_display" bibtextypekey="INPROCEEDINGS"></div>
+    <div class="bibtex_display" bibtextypekey="INPROCEEDINGS" extra="year: DESC"></div>
     <h2>Technical reports</h2>
-    <div class="bibtex_display" bibtextypekey="TECHREPORT"></div>
+    <div class="bibtex_display" bibtextypekey="TECHREPORT" extra="year: DESC"></div>
     <h2>Theses</h2>
-    <div class="bibtex_display" bibtextypekey="THESIS"></div>
+    <div class="bibtex_display" bibtextypekey="THESIS" extra="year: DESC"></div>
