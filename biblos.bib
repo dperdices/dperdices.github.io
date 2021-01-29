@@ -57,6 +57,21 @@
   pdf         = {{https://tools.ietf.org/pdf/draft-ietf-ccamp-flexigrid-yang-08.pdf}},
   abstract    = {This document defines a YANG module for managing flexi-grid optical networks. The model defined in this document specifies a flexi-grid traffic engineering database that is used to describe the topology of a flexi-grid network. It is based on and augments existing YANG models that describe network and traffic engineering topologies. A partner document defines a second YANG module for flexi-grid media channels, i.e., the paths from source to destination through a number of intermediate nodes.}
 }
+@article{tnsm2021,
+  abstract = {In network management, it is important to model baselines, trends, and regular behaviors to adequately deliver network services. However, their characterization is complex, so network operation and system alarming become a challenge. Several problems exist: Gaussian assumptions cannot be made, time series have different trends, and it is difficult to reduce their dimensionality. To overcome this situation, we propose Deep-FDA, a novel approach for network service modeling that combines functional data analysis (FDA) and neural networks. Specifically, we explore the use of functional clustering and functional depth measurements to characterize network services with time series generated from enriched flow records, showing how this method can detect different separated trends. Moreover, we augment this statistical approach with the use of autoencoder neural networks, improving the classification results. To evaluate and check the applicability of our proposal, we performed experiments with synthetic and real-world data, where we show graphically and numerically the performance of our method compared to other state-of-the-art alternatives. We also exemplify its application in different network management use cases. The results show that FDA and neural networks are complementary, as they can help each other to improve the drawbacks that both analysis methods have when are applied separately.},
+  annote   = {https://ieeexplore.ieee.org/document/9335241/},
+  author   = {Perdices, Daniel and  and {L{\'{o}}pez de Vergara}, Jorge E. and Ramos, Javier},
+  doi      = {10.1109/TNSM.2021.3053835},
+  issn     = {1932-4537},
+  journal  = {IEEE Transactions on Network and Service Management},
+  keywords = {Time series analysis,Neural networks,Monitoring,Market research,Hidden Markov models,Data analysis,Machine learning},
+  number   = {1},
+  pages    = {1--1},
+  title    = {{Deep-FDA: Using Functional Data Analysis and Neural Networks to Characterize Network Services Time Series}},
+  volume   = {1},
+  year     = {2021},
+  pdf      = {{http://arantxa.ii.uam.es/~jlopezv/publicaciones/tnsm21.pdf}}
+}
 @article{tnsm2019,
   abstract = {Many network management actions need a simultaneous consideration of several elements' state. This is becoming an even more complex matter with the advent of reconfigurable deployments, where scaling functions up can prevent performance bottlenecks. Therefore, fine-grained detection of significant burdens arises as a cornerstone to optimize their monitoring and operation. We present (), a passive monitoring system intended to fit models for network delay measurements with clustering elements to improve representation of central and extreme behaviors. As distinguishing features, it relies on cost-effective multi-point round-trip time (RTT) passive network measurements, and is able to select a suitable parametric model optimizing the trade-off between fitting and complexity. can correlate records collected from several vantage points and detect where performance issues are most likely to appear; adjust alarms in terms of the probability of events; and adapt its behavior to dynamic network conditions while presenting a fair identification of anomalous situations. We evaluate with experiments both in virtual environments and with real-world data to provide evidences of its applicability and capabilities to represent network elements' delay.},
   annote   = {https://ieeexplore.ieee.org/document/8745492/},
