@@ -33,7 +33,7 @@ My interests are splitted between mathematics/data science and network and servi
  As you may see, I am pretty enthusiastic about languages :)
  
  - Spanish: native speaker
- - English: C1 CEFR
+ - English: C2 CEFR
  - German: B1 CEFR
  - Japanese B1.1/B1.2 CEFR, N4 JLPT
  
@@ -43,7 +43,11 @@ My interests are splitted between mathematics/data science and network and servi
  - METRO-HAUL: METRO High bandwidth, 5G Application-aware optical network, with edge storage, compUte and low Latency (European Comission, Project Id. 761727) collaborator.
  
 ## Teaching
- 
+
+### 2021/2022
+ - Computer Architecture (B.Eng./B.Sc. in Computer Science, UAM). Laboratory professor.
+ - Computer Networks (B.Eng./B.Sc. in Computer Science, UAM). Laboratory professor
+
 ### 2020/2021
  - Computer Architecture (B.Eng./B.Sc. in Computer Science, UAM). Laboratory professor.
 
