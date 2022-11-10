@@ -1,6 +1,6 @@
 Year 2022-23
 
-- [Computer Networks I](dperdices.github.io/redes1-1391-2022)
+- [Computer Networks I](https://dperdices.github.io/redes1-1391-2022)
 
 - High Performance Computing
 
