@@ -4,7 +4,7 @@ Here you can find some of my personal information
 
 ## Who I am?
 
-I am lecturer and researcher as PhD student at [Universidad Autónoma de Madrid](https://www.uam.es/), where I carry out my research focused on modeling techniques (statistics, machine learning and deep learning) applied but not limited to network and service management.
+I am a PostDoc fellow at [Universidad Autónoma de Madrid](https://www.uam.es/), where I carry out my research focused on modeling techniques (statistics, machine learning and deep learning) applied but not limited to network and service management.
 
 ## How can you contact me?
 
