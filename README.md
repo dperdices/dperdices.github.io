@@ -14,4 +14,4 @@ Mainly, by email.
  
 Also, my twitter is [@dperdices](https://twitter.com/dperdices).
 
-You can also go to my workplace that is research lab C-113 of EPS, UAM.
+You can also go to my workplace at office C-325.
