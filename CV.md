@@ -22,7 +22,8 @@ My interests are splitted between mathematics/data science and network and servi
   - Supervisor: Prof. Jorge E. López de Vergara (Dept. of Electronics and Communication Technologies)
   
 ## Work experience
- - Nov. 2020 - now: researcher and lecturer at Universidad Autónoma de Madrid, Dept. of Electronics and Communication Technologies. Financed by the the Program for the Training of University Lecturers of the Spanish Ministry Science, Innovation and Universities (grant number FPU19/05678).
+ - Oct. 2023 - Now: Assistant Professor at Universidad Autónoma de Madrid, Dept. of Electronics and Communication Technologies.  
+ - Nov. 2020 - Oct. 2023: Researcher and lecturer at Universidad Autónoma de Madrid, Dept. of Electronics and Communication Technologies. Financed by the the Program for the Training of University Lecturers of the Spanish Ministry Science, Innovation and Universities (grant number FPU19/05678).
  - Oct. 2017 - Oct. 2020: Analyst and researcher at Naudit HPCN S.L.
  - Feb. 2020 - Aug. 2020: Adjunct Professor at Universidad Autónoma de Madrid, Dept. of Electronics and Communication Technologies.
  - Jun. 2017 - Sep. 2017: Internship at Naudit HPCN S.L.
@@ -44,6 +45,13 @@ My interests are splitted between mathematics/data science and network and servi
  
 ## Teaching
 
+### 2023/2024
+- High Performance Computing  (B.Sc. in Computer Science). Theory and laboratory.
+
+### 2022/2023
+- High Performance Computing  (B.Sc. in Computer Science). Laboratory professor.
+- Computer Networks (B.Eng./B.Sc. in Computer Science, UAM). Laboratory professor
+
 ### 2021/2022
  - Computer Architecture (B.Eng./B.Sc. in Computer Science, UAM). Laboratory professor.
  - Computer Networks (B.Eng./B.Sc. in Computer Science, UAM). Laboratory professor
@@ -52,7 +60,6 @@ My interests are splitted between mathematics/data science and network and servi
  - Computer Architecture (B.Eng./B.Sc. in Computer Science, UAM). Laboratory professor.
 
 ### 2019/2020
- 
  - Network Architecture I (B.Eng. in Telecommunication Technology and Services, UAM). Laboratory professor.
  - Network Architecture II (B.Eng. in Telecommunication Technology and Services, UAM). Laboratory professor.
  - Parallel System Architecture (B.Eng./B.Sc. in Computer Science, UAM). Laboratory professor and laboratory coordinator.
