@@ -2,6 +2,10 @@ Year 2023-24 (in progress)
 
 - High Performance Computing
 
+- Computer Networks
+
+- Network Architecture II
+
 Year 2022-23
 
 - [Computer Networks I](https://dperdices.github.io/redes1-1391-2022)
