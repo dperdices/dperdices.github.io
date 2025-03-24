@@ -1,0 +1,11 @@
+[
+    {
+        "short": "LINO",
+        "full": "LINO: A Large Language Model Integrated into Network Operation",
+        "pi": ["Daniel Perdices"],
+        "am_i_pi": true,
+        "financer": "Comunidad de Madrid",
+        "start": "01/01/2025",
+        "finish": "31/12/2026"
+    }
+]
