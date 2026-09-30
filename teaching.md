@@ -1,4 +1,30 @@
-Year 2023-24 (in progress)
+Year 2026-27 (in progress)
+
+- High Performance Computing (BSc Computer Engineering)
+
+- Network Planning and Monitoring (MSc in Telecommunications)
+
+- Network Monitoring (BSc Data Science)
+
+- AI for Cibersecurity (MSc in AI)
+
+- Multimedia Communications (BSc EE)
+
+Year 2025-26
+
+- High Performance Computing
+
+- Network Planning and Monitoring
+
+- Network Monitoring
+
+- Multimedia Communications
+
+Year 2024-25
+
+- High Performance Computing
+
+Year 2023-24
 
 - High Performance Computing
 
